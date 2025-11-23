@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://saajidrahman.com
+
+# Sitemaps
+Sitemap: https://saajidrahman.com/sitemap.xml
