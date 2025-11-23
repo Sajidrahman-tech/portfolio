@@ -1,4 +1,4 @@
-# Saajid Rahman's Portfolio 🚀
+# Sajid Rahman's Portfolio 🚀
 
 Welcome to my personal portfolio — a space where I showcase my journey as a **Full-Stack Software Engineer, Data Engineer. 
 Here you’ll find my projects, skills, experiences, and creative works all in one place.
