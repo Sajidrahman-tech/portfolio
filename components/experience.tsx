@@ -51,6 +51,9 @@ export default function Experience() {
           width: 24,
           height: 24,
           verticalAlign: "middle",
+          top: "7px",
+          left: "5px",
+
           ...(icon as any).props?.style,
         },
       });
@@ -89,6 +92,7 @@ export default function Experience() {
             textAlign: "left",
             padding: "1.3rem 2rem",
             borderRadius: "1rem",
+            top: "-30px",
           }}
           contentArrowStyle={{ borderRight: arrowBorder }}
           date={item.date}

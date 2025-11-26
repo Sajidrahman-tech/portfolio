@@ -89,7 +89,7 @@ export const projectsData = [
       "A modern, serverless, and infinitely scalable note-taking application that harnesses the full power of AWS cloud services. Built with enterprise-grade architecture demonstrating cutting-edge cloud technologies.",
     tags: ["HCL", "AWS", "Serverless"],
     imageUrl: img3,
-    projectUrl: "https://github.com/Sajidrahman-tech/Cloud-Native-Notes-App",
+    projectUrl: "https://github.com/Sajidrahman-tech/Cloud-Native-Notes-App-",
   },
   {
     title: "Movie Ticket Booking System",
